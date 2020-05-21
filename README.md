@@ -3,6 +3,7 @@
 JAVA: Jerarquía de clases
 
 - **JOSÉ PABLO REYES JIMÉNEZ**
+- **Fecha de nacimiento: 10/02/1996**
 
 **Proyecto Java para mostrar el trabajo con jerarquía de clases**.
 

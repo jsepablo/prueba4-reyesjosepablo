@@ -2,6 +2,8 @@
 
 JAVA: Jerarquía de clases
 
+- **JOSÉ PABLO REYES JIMÉNEZ**
+
 **Proyecto Java para mostrar el trabajo con jerarquía de clases**.
 
 ## Introducción
